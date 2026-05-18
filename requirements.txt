@@ -1,0 +1,9 @@
+pandas
+openai
+python-dotenv
+openpyxl
+jupyter
+ipykernel
+tqdm
+rich
+streamlit
